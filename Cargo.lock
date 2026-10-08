@@ -231,9 +231,9 @@ checksum = "773648b94d0e5d620f64f280777445740e61fe701025087ec8b57f45c791888b"
 
 [[package]]
 name = "corvus-json-schema"
-version = "0.1.3"
+version = "0.1.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a637e26f15a8bb02d2fc7bed090570c5a4e09568ba8abbf03ed81230e2eddc25"
+checksum = "aafa41d475d19f889722f86d2821b695e63bd4ec453a3f81fbb421bff9f3ea52"
 dependencies = [
  "regex",
  "regress",
@@ -242,7 +242,7 @@ dependencies = [
 
 [[package]]
 name = "corvus-json-schema-php"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "corvus-json-schema",
  "ext-php-rs",
